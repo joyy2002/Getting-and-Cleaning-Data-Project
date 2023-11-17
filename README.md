@@ -69,9 +69,7 @@ was created and used.
 The tidy dataset that was produced by the script 'run_analysis.txt',
 which contains the averages of selected features from the original
 'Human Activity Recognition Using Smartphones Dataset Version 1.0'.
-The 
-'[CodeBook.md](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)' 
-contains the details about the 'tidy_data_summary' table.
+
 
 To read the table back on R correctly, you can use the following command:
 ``` 
